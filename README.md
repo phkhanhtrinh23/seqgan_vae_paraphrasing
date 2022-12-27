@@ -3,9 +3,6 @@
 
 ## About The Project
 
-
-### Introduction
-
 My project is called **Paraphrasing**. This is an implementation of ["An End-to-End Generative Architecture for Paraphrase Generation"](https://aclanthology.org/D19-1309/).
 
 
