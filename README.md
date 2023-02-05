@@ -3,7 +3,7 @@
 
 ## About The Project
 
-My project is called **Paraphrasing**. This is an implementation of ["An End-to-End Generative Architecture for Paraphrase Generation"](https://aclanthology.org/D19-1309/).
+My project is called **Paraphrasing**. This is an implementation of [An End-to-End Generative Architecture for Paraphrase Generation](https://aclanthology.org/D19-1309/).
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ To get started, you should have prior knowledge on **Python** and **Pytorch** at
 
 ## Step-by-step
 
-1. Read and run `data.py` to convert `data/train.csv` to a compatible format. The dataset originates from [Quora Question Pairs (QQP)](https://www.kaggle.com/competitions/quora-question-pairs/data)
+1. Read and run `data.py` to convert `data/train.csv` to a compatible format. The dataset originates from [Quora Question Pairs (QQP)](https://www.kaggle.com/competitions/quora-question-pairs/data).
 
 2. Read and run `train.py` to train the **SeqGAN VAE** model. The model architecture originates from ["An End-to-End Generative Architecture for Paraphrase Generation"](https://aclanthology.org/D19-1309/).
 
